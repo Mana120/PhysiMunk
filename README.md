@@ -9,29 +9,32 @@ Through these simulations, students can visualize and experiment with how change
 The goal of this project is to make physics more accessible and fun. By providing students with a hands-on, visual way to explore these fundamental physics principles, we aim to enhance their understanding and engagement with the subject. Learning becomes an exciting adventure as students actively participate in creating and observing the physics of the virtual world, ultimately making the study of physics a more enjoyable and comprehensible experience.
 
 The starting menu page:
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/0deaa684-a28a-43a9-8a9e-eae989bdd9ac)
+
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/f140c93f-4db6-4522-858b-c3201c0c6252)
+
 
 Terminal for simulation of a bouncing ball:
 
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/de326b2d-a6bb-4912-8a16-13b53a904fa3)
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/cd88f856-a7b1-4482-9c4d-1cf8833bc9e4)
 
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/a253e0e4-3d6d-496a-a30f-3ecaa126b46b)
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/9db9b3c0-fe61-4cbb-acd0-43ee081d8471)
 
 Terminal for simulation of projectile motion of a ball:
 
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/3fd11986-b3bb-45df-89b5-5368afd73939)
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/a6e7926c-e979-4767-ab9a-8fd025288012)
 
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/bc44ce73-d380-4f46-9734-2ab775026337)
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/f82ebe19-2278-4d65-ae3d-2734464565cf)
 
 Terminal for simulation of collision of two balls:
 
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/208cdb05-8dd5-4b56-886c-250d91e80b04)
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/f8c5acb3-3dfe-4ea0-8363-8f9ea7c38f7a)
 
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/d3d3e905-33ca-4b18-a563-9029e368a03d)
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/2f3f3a83-c28c-4ad4-9710-bcce0d08d085)
 
 After collision
 
-![image](https://github.com/Mana120/SimpliPhy/assets/90771545/9f9253e0-1fba-4e55-a590-c99e68472f72)
+![image](https://github.com/Mana120/PhysiMunk/assets/90771545/c434576c-d23f-410c-b1b6-a8c946da4a94)
+
 
 
 
