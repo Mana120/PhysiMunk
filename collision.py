@@ -114,6 +114,9 @@ def userInput():
             clock.tick(FPS)
 
     # print(inp)
+    if len(inp) == 0:
+        return None
+
     inp = [ float(i) for i in inp]
     return inp[0], inp[1], inp[2] , inp[3] , inp[4], inp[5], inp[6], inp[7],inp[8], inp[9], inp[10] , inp[11] , inp[12], inp[13]
 if __name__ == "__main__":

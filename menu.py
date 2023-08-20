@@ -24,7 +24,10 @@ FPS = 50
 
 # Function for application1
 def application1():
-    ht, vel_x, vel_y = userInput()
+    input0 = userInput()
+    if input0 == None:
+        return
+    ht, vel_x, vel_y = input0
     # print( ht, vel_x, vel_y)
     simulate_bounce(ht, (vel_x, vel_y))
 
@@ -36,7 +39,10 @@ def application2():
 # Function for application3
 def application3():
     # Add your code for game 3 here
-    B1_mass, B2_mass, B1_vel_x, B1_vel_y, B2_vel_x, B2_vel_y,B1_elas,B2_elas,B1_x,B1_y,B2_x,B2_y,B1_rad,B2_rad  = userInput1()
+    input1 = userInput1()
+    if input1 == None:
+        return
+    B1_mass, B2_mass, B1_vel_x, B1_vel_y, B2_vel_x, B2_vel_y,B1_elas,B2_elas,B1_x,B1_y,B2_x,B2_y,B1_rad,B2_rad  = input1
     # print( ht, vel_x, vel_y)
     game(B1_mass, B2_mass, B1_vel_x, B1_vel_y, B2_vel_x, B2_vel_y,B1_elas,B2_elas,B1_x,B1_y,B2_x,B2_y,B1_rad,B2_rad)
     time.sleep(1)  # Pause for 30 seconds

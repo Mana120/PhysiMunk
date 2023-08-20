@@ -9,7 +9,7 @@ def running():
     pygame.init()
     space = pymunk.Space()
     space.gravity = 0, -1000
-    SCREEN = WIDTH, HEIGHT = 600, 600
+    SCREEN = WIDTH, HEIGHT = 800, 800
     display = pygame.display.set_mode(SCREEN)
     clock = pygame.time.Clock()
     FPS = 60

@@ -147,6 +147,9 @@ def userInput():
             clock.tick(FPS)
 
     # print(inp)
+    # print(inp)
+    if len(inp) == 0:
+        return None
     inp[0] = int(inp[0]) * 100
     inp = [ int(i) for i in inp]
     return inp[0], inp[1], inp[2]
